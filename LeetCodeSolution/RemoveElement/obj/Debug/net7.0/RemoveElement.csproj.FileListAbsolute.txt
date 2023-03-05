@@ -1,0 +1,15 @@
+C:\LeetCode\LeetCodeSolution\RemoveElement\bin\Debug\net7.0\RemoveElement.exe
+C:\LeetCode\LeetCodeSolution\RemoveElement\bin\Debug\net7.0\RemoveElement.deps.json
+C:\LeetCode\LeetCodeSolution\RemoveElement\bin\Debug\net7.0\RemoveElement.runtimeconfig.json
+C:\LeetCode\LeetCodeSolution\RemoveElement\bin\Debug\net7.0\RemoveElement.dll
+C:\LeetCode\LeetCodeSolution\RemoveElement\bin\Debug\net7.0\RemoveElement.pdb
+C:\LeetCode\LeetCodeSolution\RemoveElement\obj\Debug\net7.0\RemoveElement.csproj.AssemblyReference.cache
+C:\LeetCode\LeetCodeSolution\RemoveElement\obj\Debug\net7.0\RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode\LeetCodeSolution\RemoveElement\obj\Debug\net7.0\RemoveElement.AssemblyInfoInputs.cache
+C:\LeetCode\LeetCodeSolution\RemoveElement\obj\Debug\net7.0\RemoveElement.AssemblyInfo.cs
+C:\LeetCode\LeetCodeSolution\RemoveElement\obj\Debug\net7.0\RemoveElement.csproj.CoreCompileInputs.cache
+C:\LeetCode\LeetCodeSolution\RemoveElement\obj\Debug\net7.0\RemoveElement.dll
+C:\LeetCode\LeetCodeSolution\RemoveElement\obj\Debug\net7.0\refint\RemoveElement.dll
+C:\LeetCode\LeetCodeSolution\RemoveElement\obj\Debug\net7.0\RemoveElement.pdb
+C:\LeetCode\LeetCodeSolution\RemoveElement\obj\Debug\net7.0\RemoveElement.genruntimeconfig.cache
+C:\LeetCode\LeetCodeSolution\RemoveElement\obj\Debug\net7.0\ref\RemoveElement.dll
