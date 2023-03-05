@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{5479085A-5D94-4100-8052-2DBF63BE792B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthofLastWord", "LengthofLastWord\LengthofLastWord.csproj", "{508F55CC-1EDD-458C-A1BB-7F06EC23232D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5479085A-5D94-4100-8052-2DBF63BE792B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5479085A-5D94-4100-8052-2DBF63BE792B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5479085A-5D94-4100-8052-2DBF63BE792B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508F55CC-1EDD-458C-A1BB-7F06EC23232D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508F55CC-1EDD-458C-A1BB-7F06EC23232D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508F55CC-1EDD-458C-A1BB-7F06EC23232D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508F55CC-1EDD-458C-A1BB-7F06EC23232D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
