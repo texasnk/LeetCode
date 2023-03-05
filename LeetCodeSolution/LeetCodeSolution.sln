@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{EB471478-8AA3-4E1C-822C-42ADF899330E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{5479085A-5D94-4100-8052-2DBF63BE792B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EB471478-8AA3-4E1C-822C-42ADF899330E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB471478-8AA3-4E1C-822C-42ADF899330E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB471478-8AA3-4E1C-822C-42ADF899330E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5479085A-5D94-4100-8052-2DBF63BE792B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5479085A-5D94-4100-8052-2DBF63BE792B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5479085A-5D94-4100-8052-2DBF63BE792B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5479085A-5D94-4100-8052-2DBF63BE792B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
