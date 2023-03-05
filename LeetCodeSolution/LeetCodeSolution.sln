@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedLists", "LeetCode\MergeTwoSortedLists.csproj", "{F5F1AE12-A749-4174-865E-D7C18945E187}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{D76D5412-2B1D-4FCA-82CF-3F1D4A4F115D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F5F1AE12-A749-4174-865E-D7C18945E187}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5F1AE12-A749-4174-865E-D7C18945E187}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5F1AE12-A749-4174-865E-D7C18945E187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76D5412-2B1D-4FCA-82CF-3F1D4A4F115D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76D5412-2B1D-4FCA-82CF-3F1D4A4F115D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76D5412-2B1D-4FCA-82CF-3F1D4A4F115D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76D5412-2B1D-4FCA-82CF-3F1D4A4F115D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
