@@ -1,0 +1,15 @@
+C:\LeetCode\LeetCodeSolution\PlusOne\bin\Debug\net7.0\PlusOne.exe
+C:\LeetCode\LeetCodeSolution\PlusOne\bin\Debug\net7.0\PlusOne.deps.json
+C:\LeetCode\LeetCodeSolution\PlusOne\bin\Debug\net7.0\PlusOne.runtimeconfig.json
+C:\LeetCode\LeetCodeSolution\PlusOne\bin\Debug\net7.0\PlusOne.dll
+C:\LeetCode\LeetCodeSolution\PlusOne\bin\Debug\net7.0\PlusOne.pdb
+C:\LeetCode\LeetCodeSolution\PlusOne\obj\Debug\net7.0\PlusOne.csproj.AssemblyReference.cache
+C:\LeetCode\LeetCodeSolution\PlusOne\obj\Debug\net7.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode\LeetCodeSolution\PlusOne\obj\Debug\net7.0\PlusOne.AssemblyInfoInputs.cache
+C:\LeetCode\LeetCodeSolution\PlusOne\obj\Debug\net7.0\PlusOne.AssemblyInfo.cs
+C:\LeetCode\LeetCodeSolution\PlusOne\obj\Debug\net7.0\PlusOne.csproj.CoreCompileInputs.cache
+C:\LeetCode\LeetCodeSolution\PlusOne\obj\Debug\net7.0\PlusOne.dll
+C:\LeetCode\LeetCodeSolution\PlusOne\obj\Debug\net7.0\refint\PlusOne.dll
+C:\LeetCode\LeetCodeSolution\PlusOne\obj\Debug\net7.0\PlusOne.pdb
+C:\LeetCode\LeetCodeSolution\PlusOne\obj\Debug\net7.0\PlusOne.genruntimeconfig.cache
+C:\LeetCode\LeetCodeSolution\PlusOne\obj\Debug\net7.0\ref\PlusOne.dll
