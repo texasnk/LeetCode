@@ -1,0 +1,15 @@
+C:\LeetCode\LeetCodeSolution\BinarySum\bin\Debug\net7.0\BinarySum.exe
+C:\LeetCode\LeetCodeSolution\BinarySum\bin\Debug\net7.0\BinarySum.deps.json
+C:\LeetCode\LeetCodeSolution\BinarySum\bin\Debug\net7.0\BinarySum.runtimeconfig.json
+C:\LeetCode\LeetCodeSolution\BinarySum\bin\Debug\net7.0\BinarySum.dll
+C:\LeetCode\LeetCodeSolution\BinarySum\bin\Debug\net7.0\BinarySum.pdb
+C:\LeetCode\LeetCodeSolution\BinarySum\obj\Debug\net7.0\BinarySum.csproj.AssemblyReference.cache
+C:\LeetCode\LeetCodeSolution\BinarySum\obj\Debug\net7.0\BinarySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode\LeetCodeSolution\BinarySum\obj\Debug\net7.0\BinarySum.AssemblyInfoInputs.cache
+C:\LeetCode\LeetCodeSolution\BinarySum\obj\Debug\net7.0\BinarySum.AssemblyInfo.cs
+C:\LeetCode\LeetCodeSolution\BinarySum\obj\Debug\net7.0\BinarySum.csproj.CoreCompileInputs.cache
+C:\LeetCode\LeetCodeSolution\BinarySum\obj\Debug\net7.0\BinarySum.dll
+C:\LeetCode\LeetCodeSolution\BinarySum\obj\Debug\net7.0\refint\BinarySum.dll
+C:\LeetCode\LeetCodeSolution\BinarySum\obj\Debug\net7.0\BinarySum.pdb
+C:\LeetCode\LeetCodeSolution\BinarySum\obj\Debug\net7.0\BinarySum.genruntimeconfig.cache
+C:\LeetCode\LeetCodeSolution\BinarySum\obj\Debug\net7.0\ref\BinarySum.dll
