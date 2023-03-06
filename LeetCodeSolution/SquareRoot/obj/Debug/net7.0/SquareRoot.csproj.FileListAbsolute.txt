@@ -1,0 +1,15 @@
+C:\LeetCode\LeetCodeSolution\SquareRoot\bin\Debug\net7.0\SquareRoot.exe
+C:\LeetCode\LeetCodeSolution\SquareRoot\bin\Debug\net7.0\SquareRoot.deps.json
+C:\LeetCode\LeetCodeSolution\SquareRoot\bin\Debug\net7.0\SquareRoot.runtimeconfig.json
+C:\LeetCode\LeetCodeSolution\SquareRoot\bin\Debug\net7.0\SquareRoot.dll
+C:\LeetCode\LeetCodeSolution\SquareRoot\bin\Debug\net7.0\SquareRoot.pdb
+C:\LeetCode\LeetCodeSolution\SquareRoot\obj\Debug\net7.0\SquareRoot.csproj.AssemblyReference.cache
+C:\LeetCode\LeetCodeSolution\SquareRoot\obj\Debug\net7.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode\LeetCodeSolution\SquareRoot\obj\Debug\net7.0\SquareRoot.AssemblyInfoInputs.cache
+C:\LeetCode\LeetCodeSolution\SquareRoot\obj\Debug\net7.0\SquareRoot.AssemblyInfo.cs
+C:\LeetCode\LeetCodeSolution\SquareRoot\obj\Debug\net7.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\LeetCode\LeetCodeSolution\SquareRoot\obj\Debug\net7.0\SquareRoot.dll
+C:\LeetCode\LeetCodeSolution\SquareRoot\obj\Debug\net7.0\refint\SquareRoot.dll
+C:\LeetCode\LeetCodeSolution\SquareRoot\obj\Debug\net7.0\SquareRoot.pdb
+C:\LeetCode\LeetCodeSolution\SquareRoot\obj\Debug\net7.0\SquareRoot.genruntimeconfig.cache
+C:\LeetCode\LeetCodeSolution\SquareRoot\obj\Debug\net7.0\ref\SquareRoot.dll
